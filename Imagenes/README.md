@@ -1,0 +1,1 @@
+localiza la imagen
