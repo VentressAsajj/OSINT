@@ -1,1 +1,1 @@
-localiza la imagen
+localiza las imagenes
